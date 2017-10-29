@@ -2,9 +2,12 @@
 
 # A baseline installation of a linux server and preparing it to host our web applications, securing it from a number of attack vectors, installing and configuring a database server and deploying the Item Catalog application onto it.
 
-PUBLIC IP ADDRESS: 13.126.9.55 
+PUBLIC IP ADDRESS: http://13.126.9.55 
+
 URL: Can't create one as Amazon gives this error (Directory Service is not available in Asia Pacific (Mumbai))
+
 PORT: 2200
+
 
 -----SUMMARY OF CONFIGURATIONS MADE-----
 
